@@ -1,0 +1,146 @@
+fileFormatVersion: 2
+guid: 9dab804f51d6c4142b2a969ee89bf3e7
+timeCreated: 1507098335
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: Light_geo
+    100002: Toon_geo
+    100004: Toon_geo_MeshPart0
+    100006: Toon_geo_MeshPart1
+    100008: Toon_geo_MeshPart10
+    100010: Toon_geo_MeshPart2
+    100012: Toon_geo_MeshPart3
+    100014: Toon_geo_MeshPart4
+    100016: Toon_geo_MeshPart5
+    100018: Toon_geo_MeshPart6
+    100020: Toon_geo_MeshPart7
+    100022: Toon_geo_MeshPart8
+    100024: Toon_geo_MeshPart9
+    100026: //RootNode
+    400000: Light_geo
+    400002: Toon_geo
+    400004: Toon_geo_MeshPart0
+    400006: Toon_geo_MeshPart1
+    400008: Toon_geo_MeshPart10
+    400010: Toon_geo_MeshPart2
+    400012: Toon_geo_MeshPart3
+    400014: Toon_geo_MeshPart4
+    400016: Toon_geo_MeshPart5
+    400018: Toon_geo_MeshPart6
+    400020: Toon_geo_MeshPart7
+    400022: Toon_geo_MeshPart8
+    400024: Toon_geo_MeshPart9
+    400026: //RootNode
+    2300000: Light_geo
+    2300002: Toon_geo_MeshPart0
+    2300004: Toon_geo_MeshPart1
+    2300006: Toon_geo_MeshPart10
+    2300008: Toon_geo_MeshPart2
+    2300010: Toon_geo_MeshPart3
+    2300012: Toon_geo_MeshPart4
+    2300014: Toon_geo_MeshPart5
+    2300016: Toon_geo_MeshPart6
+    2300018: Toon_geo_MeshPart7
+    2300020: Toon_geo_MeshPart8
+    2300022: Toon_geo_MeshPart9
+    3300000: Light_geo
+    3300002: Toon_geo_MeshPart0
+    3300004: Toon_geo_MeshPart1
+    3300006: Toon_geo_MeshPart10
+    3300008: Toon_geo_MeshPart2
+    3300010: Toon_geo_MeshPart3
+    3300012: Toon_geo_MeshPart4
+    3300014: Toon_geo_MeshPart5
+    3300016: Toon_geo_MeshPart6
+    3300018: Toon_geo_MeshPart7
+    3300020: Toon_geo_MeshPart8
+    3300022: Toon_geo_MeshPart9
+    4300000: Toon_geo_MeshPart0
+    4300002: Toon_geo_MeshPart1
+    4300004: Toon_geo_MeshPart2
+    4300006: Toon_geo_MeshPart3
+    4300008: Toon_geo_MeshPart4
+    4300010: Toon_geo_MeshPart5
+    4300012: Toon_geo_MeshPart6
+    4300014: Toon_geo_MeshPart7
+    4300016: Toon_geo_MeshPart8
+    4300018: Toon_geo_MeshPart9
+    4300020: Toon_geo_MeshPart10
+    4300022: Light_geo
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

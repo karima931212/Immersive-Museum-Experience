@@ -1,0 +1,23 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/OscelerometerReceiver.js">
+    <Files>
+      <File FileName="Assets/Scripts/RandomAngel.js" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/cube.cs" Line="68" Column="71" />
+      <File FileName="Assets/Scripts/ExtrudeObjects.js" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Osceler.js" Line="1" Column="1" />
+      <File FileName="Assets/Plugins/UnityOSC/UnityOSCReceiver.cs" Line="1" Column="1" />
+      <File FileName="Assets/Plugins/OSC.NET/jsOSCBundle.cs" Line="1" Column="1" />
+      <File FileName="Assets/Plugins/OSC.NET/jsOSCMessage.cs" Line="1" Column="1" />
+      <File FileName="Assets/Plugins/OSC.NET/jsOSCPacket.cs" Line="1" Column="1" />
+      <File FileName="Assets/Plugins/OSC.NET/jsOSCReceiver.cs" Line="1" Column="1" />
+      <File FileName="Assets/Plugins/OSC.NET/jsOSCTransmitter.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/OscelerometerReceiver.js" Line="9" Column="36" />
+      <File FileName="Assets/Scripts/display.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
