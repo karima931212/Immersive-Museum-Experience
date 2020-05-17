@@ -11,12 +11,12 @@ A 3D environment that can interact with different parts of the human’s body.
 * [FaceOSC](https://github.com/kylemcdonald/ofxFaceTracker/releases)
 * [Osculator](https://osculator.net/)
 * Arduino + IMU 6 DOF Motion Sensor 
-How to set up (https://create.arduino.cc/projecthub/Aritro/getting-started-with-imu-6-dof-motion-sensor-96e066)
-Unity_Arduino_mpu6050: ()
 ## Video Demonstration
-https://vimeo.com/381943675
+https://vimeo.com/309663948
+## Instruction for Setup
+* How to setup IMU (https://create.arduino.cc/projecthub/Aritro/getting-started-with-imu-6-dof-motion-sensor-96e066)
+* Unity_Arduino_mpu6050 code: (https://github.com/karima931212/Immersive-Museum-Experience/blob/master/t1/unity3d_arduino_mpu6050.cs)
+* Osculator file: (https://github.com/karima931212/Immersive-Museum-Experience/blob/master/CalibrationOSCulator.oscd)
+* How it look like:![alt text](https://github.com/karima931212/Immersive-Museum-Experience/blob/master/Screenshots/ce51ab_74d4a97ceea84ca6a58b91b6171f0359_mv2_d_2482_1724_s_2.png)
 ## Screenshots
-![alt text](https://github.com/karima931212/ARInteractiveApp/blob/master/screenshots/ce51ab_eda0ec0d001c453f8e0381d6168ff8b2_mv2.jpg?raw=true)
-![alt text](https://github.com/karima931212/ARInteractiveApp/blob/master/screenshots/ce51ab_94055cc0f463488cb175526bdd6150f9_mv2.jpg?raw=true)
-![alt text](https://github.com/karima931212/ARInteractiveApp/blob/master/screenshots/Screen%20Shot%202020-05-16%20at%201.30.34%20PM.png?raw=true)
-![alt text](https://github.com/karima931212/ARInteractiveApp/blob/master/screenshots/ce51ab_7c906f900aad433d901edbf7363fe64b_mv2.png?raw=true)
+![alt text](https://github.com/karima931212/Immersive-Museum-Experience/blob/master/Screenshots/Screen%20Shot%202020-05-16%20at%207.55.44%20PM.png?raw=true)
